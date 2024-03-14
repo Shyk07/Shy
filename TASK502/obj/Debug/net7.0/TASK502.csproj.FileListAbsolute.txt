@@ -1,0 +1,15 @@
+/Users/apple/Projects/TASK502/TASK502/bin/Debug/net7.0/TASK502
+/Users/apple/Projects/TASK502/TASK502/bin/Debug/net7.0/TASK502.deps.json
+/Users/apple/Projects/TASK502/TASK502/bin/Debug/net7.0/TASK502.runtimeconfig.json
+/Users/apple/Projects/TASK502/TASK502/bin/Debug/net7.0/TASK502.dll
+/Users/apple/Projects/TASK502/TASK502/bin/Debug/net7.0/TASK502.pdb
+/Users/apple/Projects/TASK502/TASK502/obj/Debug/net7.0/TASK502.csproj.AssemblyReference.cache
+/Users/apple/Projects/TASK502/TASK502/obj/Debug/net7.0/TASK502.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Projects/TASK502/TASK502/obj/Debug/net7.0/TASK502.AssemblyInfoInputs.cache
+/Users/apple/Projects/TASK502/TASK502/obj/Debug/net7.0/TASK502.AssemblyInfo.cs
+/Users/apple/Projects/TASK502/TASK502/obj/Debug/net7.0/TASK502.csproj.CoreCompileInputs.cache
+/Users/apple/Projects/TASK502/TASK502/obj/Debug/net7.0/TASK502.dll
+/Users/apple/Projects/TASK502/TASK502/obj/Debug/net7.0/refint/TASK502.dll
+/Users/apple/Projects/TASK502/TASK502/obj/Debug/net7.0/TASK502.pdb
+/Users/apple/Projects/TASK502/TASK502/obj/Debug/net7.0/TASK502.genruntimeconfig.cache
+/Users/apple/Projects/TASK502/TASK502/obj/Debug/net7.0/ref/TASK502.dll
